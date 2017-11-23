@@ -1,2 +1,2 @@
-# dream
-about gans
+# KanSum
+Text Summarization of Kannada Documents
